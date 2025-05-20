@@ -1,17 +1,8 @@
 {
   "name": "calcCal",
   "version": "1.0.0",
-  "type":"commonjs",
-  "description": "1- Entre o peso 2- Entre a altura 3- Indice de massa corporal = peso / altura²",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.6.2",
-    "jest-environment-jsdom": "^29.6.2"
-  }
+  "description": "Calculadora de IMC e Taxa Metabólica Basal para atividade de extensão universitária.",
+  "main": "index.html",
+  "author": "brsktdev",
+  "keywords": []
 }
